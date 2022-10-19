@@ -157,27 +157,27 @@ res = detect(img,img_ori,alpha,slide_size)
 
 ### LIBSVM训练结果
 
-![SVMACC](D:\Users\Desktop\learning in XJTU\大三\ml\svm\source\pic\SVMACC.jpg)
+![SVMACC](\pic\SVMACC.jpg)
 
 ### LR训练结果
 
-![LRACC](D:\Users\Desktop\learning in XJTU\大三\ml\svm\source\pic\LRACC.png)
+![LRACC](\pic\LRACC.png)
 
 ### LIBSVM的ROC图和AUC计算
 
-![ROC_SVC](D:\Users\Desktop\learning in XJTU\大三\ml\svm\source\pic\ROC_SVC.png)
+![ROC_SVC](\pic\ROC_SVC.png)
 
-​																							  		**如图，AUC = 0.91**
+​										**如图，AUC = 0.91**
 
 ### 行人检测结果
 
 #### 基于SVM的行人检测
 
-![SVM_detect](D:\Users\Desktop\learning in XJTU\大三\ml\svm\source\pic\SVM_detect.jpg)
+![SVM_detect](\pic\SVM_detect.jpg)
 
 #### 基于LR的行人检测
 
-![slide20](D:\Users\Desktop\learning in XJTU\大三\ml\svm\source\pic\slide20.jpg)
+![slide20](\pic\slide20.jpg)
 
 ## 遇上的困难及解决方式
 
