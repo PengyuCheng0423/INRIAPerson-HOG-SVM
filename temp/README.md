@@ -153,32 +153,6 @@ plt.plot(fpr, tpr, 'k--', label='ROC (area = {0:.2f})'.format(roc_auc), lw=2)
 res = detect(img,img_ori,alpha,slide_size)
 ```
 
-## 实验结果
-
-### LIBSVM训练结果
-
-![SVMACC](\pic\SVMACC.jpg)
-
-### LR训练结果
-
-![LRACC](\pic\LRACC.png)
-
-### LIBSVM的ROC图和AUC计算
-
-![ROC_SVC](\pic\ROC_SVC.png)
-
-​										**如图，AUC = 0.91**
-
-### 行人检测结果
-
-#### 基于SVM的行人检测
-
-![SVM_detect](\pic\SVM_detect.jpg)
-
-#### 基于LR的行人检测
-
-![slide20](\pic\slide20.jpg)
-
 ## 遇上的困难及解决方式
 
 ​		1，图像可能无法读取：因为数据集里面不是图片而是快捷方式
