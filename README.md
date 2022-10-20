@@ -3,7 +3,7 @@ Pedestrian detection is realized based on HOG features and SVM and LR models
 
 My first git :-)
 
-使用方法：
+# 使用方法：
 HOG提取过程略
 
 ## LIBSVM
